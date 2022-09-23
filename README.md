@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrototypeK02
+- 👋 Hi, I’m Cesar Leon
 - 👀 I’m interested in Learn, learn what? well, everything about IT, im constantly pushing myself to achieve new challenges and obtain new knowledge.
 - 🌱 I’m currently learning JS, React.js, Redux, Node. Js, Express, Sequelize.
 - Actually I have Academic experience in "soyHenry" Bootcamp, developing projects such as a Single Page Application, and an E-commerce, in which I used the next technologies:
